@@ -8,3 +8,13 @@ C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.csproj.Generat
 C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.csproj.CoreCompileInputs.cache
 C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.exe
 C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.pdb
+E:\Kha\danctdl\bin\Debug\danctdl.exe.config
+E:\Kha\danctdl\bin\Debug\danctdl.exe
+E:\Kha\danctdl\bin\Debug\danctdl.pdb
+E:\Kha\danctdl\obj\Debug\danctdl.csprojResolveAssemblyReference.cache
+E:\Kha\danctdl\obj\Debug\danctdl.Form1.resources
+E:\Kha\danctdl\obj\Debug\danctdl.Properties.Resources.resources
+E:\Kha\danctdl\obj\Debug\danctdl.csproj.GenerateResource.Cache
+E:\Kha\danctdl\obj\Debug\danctdl.csproj.CoreCompileInputs.cache
+E:\Kha\danctdl\obj\Debug\danctdl.exe
+E:\Kha\danctdl\obj\Debug\danctdl.pdb
