@@ -1,0 +1,10 @@
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\bin\Debug\danctdl.exe.config
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\bin\Debug\danctdl.exe
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\bin\Debug\danctdl.pdb
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.csprojResolveAssemblyReference.cache
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.Form1.resources
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.Properties.Resources.resources
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.csproj.GenerateResource.Cache
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.csproj.CoreCompileInputs.cache
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.exe
+C:\Users\Quang Kha\source\repos\danctdl\danctdl\obj\Debug\danctdl.pdb
